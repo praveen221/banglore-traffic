@@ -15,9 +15,9 @@ Set up Ideation and Vision for data collection that can help us understand vehic
 
 ### Solving the Chaos
 Create Models on this data and leverage the data of government program and maintenence and vehicles with this to acheieve the following initial solution model:
-    1. Maximize for flow 
-    2. Find better Intersection and New routes,   
-    3. Traffic light dynamic real time control on prediction
-    4. Priortize road fixing 
-    5. Parking sites predictions
-    6. Vehicle permissions
+1. Maximize for flow 
+2. Find better Intersection and New routes,   
+3. Traffic light dynamic real time control on prediction
+4. Priortize road fixing 
+5. Parking sites predictions
+6. Vehicle permissions
