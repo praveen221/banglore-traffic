@@ -10,6 +10,9 @@ This is the list of issues which needs to be looken into further details as majo
 ### Vehicle Data from Govt. and Pvt. Ltd's
 Get the vehicle statistics of the city for ownership, growth rate in purchase, dump rate, demographics of vehicles and humans related to it. 
 
+### Visual Simulator to run understand and visually look at the traffic data 
+Create a Simulator to visually debug and undertand the traffic flow data.
+
 ### Data Pipeline
 Set up Ideation and Vision for data collection that can help us understand vehicle moment, turbelence while moment(from phones to predict road health), meta moment affected by speed breakers U-turns  with respect to location, time of the day, day of the week, month of the year basically a time series database to derive insights and build on solution by leveraging this and combining this with other issues and thus overall solution.
 
@@ -21,4 +24,5 @@ Create Models on this data and leverage the data of government program and maint
 4. Priortize road fixing 
 5. Parking sites predictions
 6. Vehicle permissions
-7. Congestion control speed limiter.
+7. Congestion control.
+8. 
