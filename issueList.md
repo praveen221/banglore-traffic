@@ -1,8 +1,8 @@
 # Issue List
-
-#### This is the list of issues which needs to be looken into further details as major fronts at which we need to make progress in order to solve the chaos
+This is the list of issues which needs to be looken into further details as major fronts at which we need to make progress in order to solve the chaos
 
 - - - 
+
 
 ## Govt. Maintenence and Resources Data 
  Get the data about current maintenence scheme of the Banglore authorities including human, vehical, tools and machine and all other type of resources used for Roads,Footpaths, Dividers, Public Parking Spaces, Traffic Lights, Bus Stops, Metro Stations, Green Vegetation.
